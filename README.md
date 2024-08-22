@@ -11,3 +11,6 @@ data and on the basis of that we are predicting future sales.
 3. Matplotlib (Visualisation)
 4. Seaborn (Visualisation)
 5. Streamlit (Web Framework)
+
+**To run application**
+streamlit run app.py
